@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" width="300px">
+<img src="https://i.pinimg.com/originals/23/a9/e1/23a9e16f37d05dcd1d3be915065854b3.gif" width="600px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=5C974DAC&background=C3621100&multiline=true&width=435&lines=Hi%2C+I'm+Juliana+~+%E2%98%86)](https://git.io/typing-svg)
 
