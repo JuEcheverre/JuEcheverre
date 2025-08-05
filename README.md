@@ -72,3 +72,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/JuEcheverre/JuEcheverre/tree/master/3790-fruits-into-baskets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/JuEcheverre/JuEcheverre/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/JuEcheverre/JuEcheverre/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/JuEcheverre/JuEcheverre/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/JuEcheverre/JuEcheverre/tree/master/3790-fruits-into-baskets-ii) |
+<!---LeetCode Topics End-->
